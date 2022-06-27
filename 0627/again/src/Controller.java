@@ -11,7 +11,6 @@ public class Controller {
         this.sc = new Scanner(System.in);
         sc = new Scanner(System.in);
     }
-    //
     public void main(){
         boolean flag = true;
         while (flag){

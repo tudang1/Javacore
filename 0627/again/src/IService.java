@@ -8,5 +8,4 @@ public interface IService {
     public void updateEmail(User user,String Email);
 
     public void addNewStudent(ArrayList<User> list, User user);
-
 }

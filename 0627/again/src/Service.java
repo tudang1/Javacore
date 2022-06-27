@@ -7,8 +7,6 @@ public class Service implements IService{
         return list;
     }
 
-
-
     @Override
     public void updateUserName(User user,String newUserName) {
         user.setUsername(newUserName);

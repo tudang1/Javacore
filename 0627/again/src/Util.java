@@ -3,7 +3,6 @@ public class Util {
         System.out.println("1 - Đăng Nhập");
         System.out.println("2 - Đăng Ký");
     }
-
     public static void submenu1() {
         System.out.println("1 - Thay đổi username");
         System.out.println("2 - Thay đổi email");
