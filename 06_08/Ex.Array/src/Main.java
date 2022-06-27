@@ -10,7 +10,7 @@ public class Main {
         String Array = sc.nextLine();
         //tách chuỗi dùng split() cắt khi " "; space
         //tạo 1 mảng Trung gian temp để nhận cách xâu bị cắt
-        String[] temp= Array.split(" ");
+        String[] temp= Array.split("\\s+");
         Array="";
         for(int i=0;i<temp.length;i++) {
             Array+=String.valueOf(temp[i].charAt(0)).toUpperCase() + temp[i].substring(1);

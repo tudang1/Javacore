@@ -29,10 +29,10 @@ public class Controller {
             }
         }
     }
-    String username;
+
     public User login() {
         System.out.println("nhập tên Username: ");
-        username = sc.nextLine();
+        String username = sc.nextLine();
         for (User s : listUser) {
             if (s.getUsername().equals(username)) {
                 System.out.println("nhập tên password: ");

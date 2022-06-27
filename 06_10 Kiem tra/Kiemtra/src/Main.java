@@ -127,12 +127,16 @@ public class Main {
         }
         System.out.println();
         // câu 6
+        //6-1
         String EMAIL_PATTERN =
                 "^[a-zA-Z][\\w-]+@([\\w]+\\.[\\w]+|[\\w]+\\.[\\w]{2,}\\.[\\w]{2,})$";
 
         System.out.println("Nhập Mail: ");
         String Mail = sc.next();
         System.out.println(Mail + ": " + Pattern.matches(EMAIL_PATTERN, Mail));
+        //6-2
+        int Phone_Pattern = "ba*";
+
     }
     public static boolean isPrimeNumber(int n) {
         if (n < 2) {

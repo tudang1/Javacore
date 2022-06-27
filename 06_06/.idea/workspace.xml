@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e44ab417-43fd-4c93-9b05-ff71d3d323de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../0601/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/0601.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/06_01_ex/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/06_01_ex/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/06_01_ex/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/06_01_ex/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/06_01_ex/06_01_ex.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/06_01_ex/out/production/06_01_ex/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/06_01_ex/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/BMI/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/BMI/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/BMI/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/BMI/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/BMI/BMI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/BMI/out/production/BMI/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/BMI/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/inoutput/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/inoutput/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/inoutput/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/inoutput/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/inoutput/inoutput.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/inoutput/out/production/inoutput/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/inoutput/out/production/inoutput/Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/inoutput/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/inoutput/src/Scanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/out/production/0601/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/out/production/0601/gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0601/src/gender.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ACfGztFWvHrhQOiMKFIgUgivx2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Techmaster/Javacore/06_06/switch-case"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e44ab417-43fd-4c93-9b05-ff71d3d323de" name="Changes" comment="" />
+      <created>1654518398769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654518398769</updated>
+    </task>
+    <servers />
+  </component>
+</project>

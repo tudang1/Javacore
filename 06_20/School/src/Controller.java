@@ -57,7 +57,7 @@ public class Controller {
             System.out.println(s);
         }
     }
-    //tạo phương thức nhập dự trên phần tử khai báo createNewStudent bên dưới
+    //tạo phương thức nhập dựa trên phần tử khai báo createNewStudent bên dưới
     public Student createNewStudent(){
         System.out.println("Nhập ID: ");
         int id = Integer.parseInt(sc.nextLine());

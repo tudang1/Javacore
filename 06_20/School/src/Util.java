@@ -9,4 +9,13 @@ public class Util {
         System.out.println("6 - Sắp xếp theo tên: ");
         System.out.println("0 - Thoát chương trình");
     }
+    public static void submenu1(){
+        System.out.println("Bạn có thể thực hiện: ");
+        System.out.println("1 - Thay đổi username");
+        System.out.println("2 - Thay đổi email");
+        System.out.println("3 - Thay đổi mật khẩu");
+        System.out.println("4 - Xem Thông tin cá nhân");
+        System.out.println("5 - Đăng xuất");
+        System.out.println("0 - Thoát chương trình");
+    }
 }
