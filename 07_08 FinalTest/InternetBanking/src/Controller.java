@@ -42,6 +42,8 @@ public class Controller {
                                    subacc.setMoney(subacc.getMoney() + x);
                                    System.out.print("Giao Dịch Thành Công. Số dư của bạn Là:" + fAccount.getMoney());
                                    System.out.println();
+                                   // khi e chèn thêm dòng này để nhận dữ liệu cho lịch sử thì khi giao dịch kết thúc nó tự kết thúc
+                                   //chương trình của e. a coi giùm e nhé
                                    history.add(new History(content,subacc.getAccountNumber(),x));
                                    break;
                                }else {
