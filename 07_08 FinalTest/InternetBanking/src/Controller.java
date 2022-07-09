@@ -11,7 +11,7 @@ public class Controller {
         this.sc = new Scanner(System.in);
 
     }
-    ArrayList<History> history ;
+    ArrayList<History> history = new ArrayList<>();
 
     public void main(){
         Information fAccount = login();
@@ -42,8 +42,6 @@ public class Controller {
                                    subacc.setMoney(subacc.getMoney() + x);
                                    System.out.print("Giao Dịch Thành Công. Số dư của bạn Là:" + fAccount.getMoney());
                                    System.out.println();
-                                   // khi e chèn thêm dòng này để nhận dữ liệu cho lịch sử thì khi giao dịch kết thúc nó tự kết thúc
-                                   //chương trình của e. a coi giùm e nhé
                                    history.add(new History(content,subacc.getAccountNumber(),x));
                                    break;
                                }else {
@@ -109,7 +107,8 @@ public class Controller {
         while (flag){
             if (history != null){
                 for (History h : history){
-                    System.out.println(h);
+                    System.out.println("Giao Dịch: " + h);
+                    flag = false;
                 }
             }else {
                 System.out.println("-------");

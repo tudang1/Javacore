@@ -35,4 +35,8 @@ public class History {
     public void setMoney(double money) {
         this.money = money;
     }
+    @Override
+    public String toString() {
+        return content + " - " + accountNumber + " - " + money;
+    }
 }
