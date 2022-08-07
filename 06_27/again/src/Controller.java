@@ -9,7 +9,6 @@ public class Controller {
     public Controller() {
         this.listUser = this.service.getAllUser();
         this.sc = new Scanner(System.in);
-        sc = new Scanner(System.in);
     }
     public void main(){
         boolean flag = true;
